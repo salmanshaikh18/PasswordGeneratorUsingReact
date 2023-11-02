@@ -39,7 +39,7 @@ const App = () => {
   return (
     <>
 
-      <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 my-8 text-orange-500 bg-gray-800">
+      <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 my-8 text-orange-500 bg-gray-800 pb-5 pt-1">
         <h1 className='text-4xl text-center my-5'>Password Generator</h1>
         <div className="flex shadow rounded-lg overflow-hidden mb-4">
           <input

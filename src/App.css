@@ -1,0 +1,7 @@
+label {
+    cursor: pointer;
+}
+
+#characterInput, #numberInput {
+    cursor: pointer;
+}
